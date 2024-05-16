@@ -7,7 +7,7 @@ tags: [Northern Lights]
 ---
 
 
-![img-description](/assets/img/photos/northern_lights.jpg)
+![img-description](/assets/img/photos/nl.gif)
 
 The Northern Lights were spectacular at lower latitudes this year due to the Solar Coronal
 Mass Ejections that emanated from the Sun! This photo was the best I could do though.. 
